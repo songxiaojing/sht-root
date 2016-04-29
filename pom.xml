@@ -14,7 +14,7 @@
         <module>../sht-dataModule</module>
         <module>../sht-dataCenter</module>
         <module>../sht-tradingFetch</module>
-        <module>../sht-database</module>
+        <module>../sht-builder</module>
     </modules>
     <build>
         <plugins>
